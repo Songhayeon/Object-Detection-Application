@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff399">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/btn_detect"
+        android:onClick="detectClicked"
+        android:src="@drawable/find"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:src="@drawable/line"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/btn_explain"
+        android:onClick="explainClicked"
+        android:src="@drawable/explain" />
+ <!--   <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn"
+        android:onClick="picClicked"
+        android:text="사진 찍기"/>
+-->
+
+   <!-- <ImageView
+        android:id="@+id/picture"
+        android:layout_width="500px"
+        android:layout_height="500px"
+        android:src="@drawable/blocks" />
+-->
+  <!--  <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendbtn"
+        android:onClick="SendToServer"
+        android:text="서버로 보내기"/>
+-->
+
+</LinearLayout>

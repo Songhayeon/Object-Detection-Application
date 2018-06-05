@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_aebd0464706012829f17a48a9d94067695f009c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\b23f5a96b91f0d2093edc97091563ec5fdf82511\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c9e2ba405133c792ab71c9d3b8613c8db500fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\6c5be3cf728884261b6f10f73c379cc3893e0539\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac159e19c80ebd769a73b5f06806e4fb945c8942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\39e20db5401851657ab5c45e989e7169fbc425f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e419ad2060522112620937983ebe644a9d0f38d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\2e0fdfd8fb14e91a9754416939697d7b0345d52e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ebaee0551d63016ed6bab2f59e77aea7903af58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\1d955dccfece9c380b732c4692a849602b1ad2c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ece7d4bf8e81bda648ce0925dc8229249b79172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3ab8fa0fae6a085c6e02888771644da22418dd70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c0da945edc2c0a00ba33bb4847c6966021efd144">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_497386350786ade8a13a09c2545a217e134ee853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\e99af7ac76876efdc497c5da2f02b71deb0a54ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6568f5782e4636f3a9177f03bcab9a08e751c09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\d0c87e83d1ab7ada4b117d4c2e3ac8fa571c1c63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8932ebfb7278da37bf6238d13c5c43e3eb894c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\c1c292f19124cf351c9bd9d37a87cd8369c55edf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf0498d035ac60a02ac109cd983293b822f4b450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\7b7e73b5cb2d8cc70a38a4ec7daba85067057e08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b937ec3151b6cd5fef66da28addb7f4315d58db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_4e7d94ef9b203980bb73cab0b01dee6153cb9592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_5ae05bcfddcc52f81e3381b2243a770d49245b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hayeon\.android\build-cache\171d3de0e89806bf8a9c09861d5fa18bf915aea9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\hayeon\Desktop\moblie-app\final\hey\AHORA\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d370b178d79918a9c41edfc052d213b875027842\classes.dex" />
+    </item>
+
+</items>

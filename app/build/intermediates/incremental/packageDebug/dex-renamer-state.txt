@@ -1,0 +1,7 @@
+#Thu May 31 01:21:54 KST 2018
+base.0=C\:\\Users\\hayeon\\Desktop\\moblie-app\\final\\hey\\AHORA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_497386350786ade8a13a09c2545a217e134ee853
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\hayeon\\Desktop\\moblie-app\\final\\hey\\AHORA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3ab8fa0fae6a085c6e02888771644da22418dd70\\classes.dex
+base.1=C\:\\Users\\hayeon\\Desktop\\moblie-app\\final\\hey\\AHORA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3ab8fa0fae6a085c6e02888771644da22418dd70
+file.0=C\:\\Users\\hayeon\\Desktop\\moblie-app\\final\\hey\\AHORA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_497386350786ade8a13a09c2545a217e134ee853\\classes.dex
